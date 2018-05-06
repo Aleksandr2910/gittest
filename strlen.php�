@@ -1,0 +1,7 @@
+<?php
+
+
+$stroka = 'где-то там';
+
+echo strlen(stroka);
+?>
